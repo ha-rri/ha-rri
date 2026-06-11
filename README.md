@@ -1,6 +1,6 @@
 # Hi, I'm Harry! 👋
 
-I am an incoming fourth-year Computer Science student at Cavite State University. I focus on building practical, structured software architectures, but I am currently really interested on data analytics and AI architectures..
+I am an incoming fourth-year Computer Science student at Cavite State University. I focus on building practical, structured software architectures, but I am currently _really_ interested on data analytics and AI architectures..
 
 ### 🛠️ Featured Projects
 Throughout my studies, I have built various academic and personal applications, but these are the two systems I am most proud of:

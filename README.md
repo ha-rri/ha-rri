@@ -15,7 +15,7 @@ Throughout my studies, I have built various academic and personal applications, 
 *   **DevOps & Workflow:** Git, GitHub, Docker, CI/CD (GitHub Actions), REST APIs, Figma, Postman
 
 ### ☕ Beyond Coding
-*   **Organization:** I use **Obsidian** for tech notes, **Anki** for learning retention, and **Todoist** for task management.
+*   **Organization:** I use **Obsidian** for every kind of notes (academic, tech, random), **Anki** for learning retention, and **Todoist** for task management.
 *   **Interests:** Outside of coding, I enjoy exploring random software tools and dedicating my time to a few selected anime and manga series. Lately, I've also been focusing on self-improvement!
 
 ---

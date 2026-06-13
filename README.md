@@ -16,7 +16,7 @@ Throughout my studies, I have built various academic and personal applications, 
 
 ### ☕ Beyond Coding
 *   **Organization:** I use **Obsidian** for every kind of notes (academic, tech, random), **Anki** for learning retention, and **Todoist** for task management.
-*   **Interests:** Outside of coding, I enjoy exploring random software tools and dedicating my time to a few selected anime and manga series. Lately, I've also been focusing on self-improvement!
+*   **Interests:** Outside of coding, I enjoy exploring random software tools and dedicating my time to a few selected anime and manga series. Lately, I've also been putting more effort on self-improvement!
 
 ---
 Let's connect! 
